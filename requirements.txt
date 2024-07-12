@@ -4,6 +4,4 @@ geopandas
 shapely
 cartagen4py
 ipywidgets
-screeninfo
 tqdm
-IPython
