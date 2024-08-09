@@ -5,5 +5,3 @@ shapely
 cartagen4py
 ipywidgets
 tqdm
-jupyterlab_rise
-hide_code[lab]
