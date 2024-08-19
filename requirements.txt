@@ -6,3 +6,4 @@ cartagen4py
 ipywidgets
 tqdm
 RISE
+pydeck
