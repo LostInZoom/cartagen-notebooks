@@ -7,3 +7,4 @@ ipywidgets
 tqdm
 RISE
 pydeck
+hide_code
