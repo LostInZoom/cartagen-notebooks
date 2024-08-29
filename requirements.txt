@@ -8,5 +8,4 @@ tqdm
 RISE
 pydeck
 hide_code
-progressbar
 progressbar2
