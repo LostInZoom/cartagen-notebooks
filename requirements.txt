@@ -9,3 +9,4 @@ RISE
 pydeck
 hide_code
 progressbar2
+contextily
