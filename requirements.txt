@@ -10,3 +10,4 @@ pydeck
 hide_code
 progressbar2
 contextily
+mapclassify
