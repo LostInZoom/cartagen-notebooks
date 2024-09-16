@@ -20,7 +20,6 @@ import numpy as np # Using mathematical operations in Python
 import re # regex
 from IPython.display import clear_output, Image # used to delete widgets
 
-
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 
