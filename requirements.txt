@@ -2,7 +2,7 @@ matplotlib
 numpy
 geopandas
 shapely
-cartagen
+cartagen == 1.0.0
 ipywidgets
 tqdm
 RISE
